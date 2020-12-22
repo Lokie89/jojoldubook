@@ -3,4 +3,3 @@
 .idea
 out
 build
-src/main/resources/application-oauth.properties
